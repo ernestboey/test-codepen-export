@@ -1,26 +1,24 @@
-html,
-body {
-    background-color: lightblue;
+html, body {
+    background-color: #c2e3f2;
     font-family: Arial;
     width: 100%;
-}
-
-div {
+  }
+  
+  div {
     padding: 24px;
-}
-
-.welcome {
+  }
+  
+  .welcome {
     font-family: system-ui;
-    background: #CBC3E3;
+    background: #9aadbc;
     color: white;
     text-align: center;
-}
-
-.place-img {
+  }
+  
+  .place-img {
     height: 40%;
     width: 40%;
-}
-
-h1 {
-    color: green;
-}
+  }
+  h1{
+    color: #c2665b;
+  }
